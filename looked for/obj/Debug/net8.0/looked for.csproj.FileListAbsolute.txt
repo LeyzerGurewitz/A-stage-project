@@ -12,3 +12,4 @@ C:\Users\leyze\source\repos\looked for\looked for\obj\Debug\net8.0\refint\looked
 C:\Users\leyze\source\repos\looked for\looked for\obj\Debug\net8.0\looked for.pdb
 C:\Users\leyze\source\repos\looked for\looked for\obj\Debug\net8.0\looked for.genruntimeconfig.cache
 C:\Users\leyze\source\repos\looked for\looked for\obj\Debug\net8.0\ref\looked for.dll
+C:\Users\leyze\source\repos\looked for\looked for\obj\Debug\net8.0\looked for.sourcelink.json
